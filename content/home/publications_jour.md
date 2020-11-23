@@ -50,30 +50,20 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## Journals
+- Albuquerque, Isabela, Abhishek Tiwari, Mark Parent, Jean-François Gagnon, Daniel Lafond, Sebastien Tremblay, and Tiago Henrique Falk. "WAUC: A Multi-Modal Database for Mental Workload Assessment under Physical Activity." Frontiers in Neuroscience 14 (2020): 1037.
 
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
+- Tiwari, Abhishek, Isabela Albuquerque, Mark Parent, Jean-François Gagnon, Daniel Lafond, Sébastien Tremblay, and Tiago H Falk. "Multi-Scale Heart Beat Entropy Measures for Mental Workload Assessment of Ambulant Users." Entropy 21, no. 8 (2019): 783.
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+- Tiwari, Abhishek, and Tiago H. Falk. "Lossless electrocardiogram signal compression: A review of existing methods." Biomedical Signal Processing and Control 51 (2019): 338-346.
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+- Tiwari, Abhishek, and Tiago H. Falk. "Fusion of Motif-and spectrum-related features for improved EEG-based emotion recognition." Computational intelligence and neuroscience 2019 (2019).
 
-## Crowd-funded open-source software
+- Clerico, Andrea, Abhishek Tiwari, Rishabh Gupta, Srinivasan Jayaraman, and Tiago H. Falk. "Electroencephalography amplitude modulation analysis for automated affective tagging of music video clips." Frontiers in Computational Neuroscience 11 (2018): 115.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## Conferences
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
-## You're looking at a Wowchemy _widget_
 
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
-**To remove this section, delete `content/home/demo.md`.**
-{{% /callout %}}
-
-## Get inspired
-
-[Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
